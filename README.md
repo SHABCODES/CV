@@ -8,11 +8,11 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+##  Professional Summary
 
 A recent B.Tech Graduate in Electrical Engineering with Computer Science specialization, passionate about software development. Proficient in **Python, Java, and OOP principles** with hands-on experience building applications using **Flask and Django**. Eager to contribute to real-world projects and learn **Scrum, Automated Testing, and CI/CD** methodologies.
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
@@ -21,12 +21,12 @@ A recent B.Tech Graduate in Electrical Engineering with Computer Science special
 | **Software Methodologies** | Agile, Scrum, Automated Testing, CI/CD, Code Refactoring |
 | **Concepts** | OOP, RESTful API Development, Debugging, Problem Analysis |
 
-## 🎓 Education
+##  Education
 
 **B.Tech in Electrical Engineering (Computer Science Specialization)**  
 *Dayalbagh Educational Institute, Agra* | 2021-2025
 
-## 💼 Technical Experience
+##  Technical Experience
 
 ### Co-op Intern | Centre for Development of Advanced Computing (C-DAC)
 *Apr 2023 – Sep 2024*
@@ -39,7 +39,7 @@ A recent B.Tech Graduate in Electrical Engineering with Computer Science special
 - Automated CSV data validation, reducing processing errors by 30%
 - Developed internal dashboards for data visualization and business intelligence
 
-## 🚀 Projects
+##  Projects
 
 ### Real-Time Weather Dashboard
 **Technologies:** Python, Flask, REST API, SQLite, Git
@@ -57,7 +57,7 @@ A recent B.Tech Graduate in Electrical Engineering with Computer Science special
 - Created AI agent for document understanding and form data extraction
 - Built end-to-end system handling digital and scanned documents
 
-## 📜 Certifications
+##  Certifications
 - Python for Everybody Specialization - University of Michigan (Coursera)
 - Summer Analytics 2024 - IIT Guwahati
 
